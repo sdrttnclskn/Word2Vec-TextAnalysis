@@ -1,0 +1,179 @@
+Yapay Zeka ve Bilim Felsefesi* Şakir KOCABAŞ**
+ÖZET
+Bilimsel buluşlar üzerine yapay zekada yapılan yeni araştır- malar bilim konusunda daha önce gözardı edilmiş olan bir dizi önemli hususu ortaya çıkarmıştır. Yapay zekacı bilim adamları tarafından bilim tarihindeki buluşların farklı yön- lerini araştırmak üzere geliştirilen bir dizi bilgisayar modeli, hipotez oluşturma, hipotez testi ve değerlendirmesi bilim- sel araştırma faaliyetinin sadece küçük bir parçasıdır. Bu çalışma yapay zeka açısından, bilimsel yaratıcılık, bilimsel araştırmanın süreçleri, bilimsel araştırmanın boyutları ve bilginin araştırmadaki rolünü incelemektedir.
+* 11-12 Kasım 1996’da İstanbul’da düzenlenen Third Me- eting of Istanbul-Vienna Philosophical Circle / Drittes Symposium der Philosophischer Kreis Wien-Istanbul / İstanbul-Viyana Felsefe Çevresi III. Sempozyumu’nda sunulan ve Artificial Intelligence, Language and Thought / Künstliche Intelligenz, Sprache und Denken / Yapay Zeka, Dil ve Düşünce isimli kitapta (ed. Erwin Lucius - Şafak Ural, İstanbul: The ISIS Press, 1999, s. 139-150) yayınlanan bu tebliğ burada yayıncı The ISIS Press’in izniyle alıntılan- mıştır. Kendilerine teşekkür ediyoruz.
+** Doç. Dr. İstanbul Teknik Üniversitesi.
+9
+Dîvân DİSİPLİNLERARASI ÇALIŞMALAR DERGİSİ cilt 19 say› 36 (2014/1), 9-22
+Yapay Zeka ve Bilim Felsefesi
+    
+Şakir KOCABAŞ
+10
+Giriş
+BİLİMSEL BULUŞLAR VE YARATICILIK SON on- beş yıldır yapay zekanın (YZ) özel bir ilgi alanını oluşturmakta- dır. Bu süre içinde bilimsel buluşlar konusunda bir dizi araştırma makalesi ve iki önemli kitap yayınlanmıştır (bkz. Langley, Simon, Bradshaw ve Zytkow, 1987; Shrager ve Langley, 1990). Bu konuyla yakından ilgili olarak başka bazı yayınlar da çıkmıştır. Bunlardan biri bilgisayarlı bilim felsefesi konusunda (Thagard, 1988), biri bi- limde teori yenileme üzerine (Darden, 1991), ve bir diğeri de yara- tıcılık konusundadır (Boden, 1990).
+Langley vd.nin (1987) eseri, bilimsel buluşların ve dolayısıyla bi- limsel yaratıcılığın bir dizi süreçlerle açıklanabileceğini öne süre- rek bunların esrarengiz ve açıklanamaz olduğu konusundaki yer- leşik anlayışa ilk ciddi karşı çıkış oldu. Bu eser aynı zamanda bu yazarların görüşlerini destekleyici bilgisayar modellerini de tasvir etmektedir. Shrager ve Langley’in (1990) sonraki eseri ise bilim- sel teori geliştirmenin incelenmesi için yeni bazı metotlar ortaya koymakta ve bilgisayarlı bilim çalışmasının geleneksel felsefi ça- lışmalardan neden üstün olduğunu açıklamaktadır. Öte yandan, Boden’in (1990) eseri ise bu geliştirilen görüşleri kognitif bilimci açısından genişleterek, yalnız bilimde değil, sanat ve edebiyatta da yaratıcılığın bilgisayarlı bir çalışma çerçevesinde daha sistemli ola- rak nasıl incelenebileceğini tartışmaktadır.
+Ancak, önceki çalışmalar buluşlarla ilgili, bilimsel araştırmanın unsurları, bilimsel buluş ve yaratıcılık türleri ve bilimsel araştırma- nın boyutları gibi bazı önemli hususları açık bırakmıştır.
+Bu çalışmada biz, yaratıcılığın temel kognitif kavramlarını ele alıp bunların nasıl birbirleriyle bağlantılı olduğunu inceleyeceğiz, ve sonra da bilimsel araştırmada arka plan bilgisinin rolünü ve bi- limsel buluşlar için gerekli bilgi türlerinin neler olduğunu tartışa- cağız. Son olarak da bilimsel buluş türleri ve bilimsel araştırmanın unsurlarını tartışacağız ve çalışmamızı bir özetle tamamlayacağız.
+Bilimde Yaratıcılık ve Zeka
+ Dîvân
+2014/1
+Yaratıcılık ve zeka bağlantılı kavramlardır, o kadar ki birini açık- lığa kavuşturacak bir teşebbüs diğerini tarifte kolaylık sağlayacak- tır. YZ bilim adamları yaptıkları tarifleri bilgisayar terimlerine da-
+
+yandırırlar. Lenat ve Feigenbaum (1987) zekayı “arama” kavramı üzerinden şöyle tarif etmiştir: Zeka, geniş bir arama alanına sahip bir problemi çözebilme yetisidir. Feigenbaum daha sonra zekayı “arama” yerine “bilgi birleştirme” kavramı üzerinden tarif etmiştir (bkz. Engelmore ve Morgan, 1988, vii). Bu tarife göre zeki bir sistem karmaşık bir görevi ifa edebilmek için gerekli bilgileri birleştirebi- len bir sistemdir.
+Ne var ki bu tarifler zeka kavramının karmaşıklığını yeteri ka- dar yansıtmamaktadır. Daha ayrıntılı bir tarif Hayes-Roth (1993) tarafından zeki etmenler çerçevesinde verilmiştir, ki yazar zekayı üç sistem bileşeni vasıtasıyle tanımlamaktadır: algılama, düşün- me ve eylem. Burada her üç bileşen de birbirinden bağımsız fakat birbiriyle uyum içinde çalışabilmelidir. Buna ilave olarak, “zeki” sayılabilmesi için her bir bileşenin bir dizi kıstası karşılaması ge- rekmektedir. Bu kıstaslara göre, zeki bir sistem gerçek zamanda, eşzamansız olarak, seçmeli, uyumlu, esnek, etkileşimci, gürbüz ve zamanlı olarak algılama, düşünme ve eylem yapabilmelidir. Zeki bir sistem aynı zamanda uyum ve öğrenme ile yetilerini ge- liştirebilmelidir. Birçok ZY bilim adamı öğrenmeyi sembolik ve altsembolik olmak üzere iki düzeyde ele alırlar ve sembol düzeyi öğrenmeyi de ezberleme, yönergeyle öğrenme, tümevarım yoluyla öğrenme, tümdengelim yoluyla öğrenme ve benzerlik yoluyla öğ- renme olmak üzere birkaç sınıfa ayırırlar.
+Yaratıcılık farklı türler altında sınıflandırılabilir. Bilimsel yara- tıcılıkla diğer yaratıcılık türleri (sanatta, mimaride, müzik ve ede- biyatta söz konusu olan yaratıcılık) arasında bir ayırım yapılabilir. Bilimsel yaratıcılık aşırı derecede arka plan bilgisine ve tecrübeye dayanır.
+Bu ise tarihte yaratıcı bilim alanında, neden müzik ve sanatta ol- duğu gibi harika çocukların bulunmadığını açıklayabilir. Bilimsel yaratıcılıktan bahsederken bunun böyle bir çerçevede anlaşılması gerekmektedir.
+Bilimsel yaratıcılık beş temel kognitif ve bilgisayar kavramı açı- sından incelenebilir.
+1. Bilimsel araştırma için motivasyon.
+2. Bir bilgi alanındaki problemleri doğru ifade edebilme yetisi.
+3. Bir bilimsel problemin çözümü için kapsamlı bir arama alanı çizebilme yetisi.
+11
+Yapay Zeka ve Bilim Felsefesi
+ Dîvân
+2014/1
+
+Şakir KOCABAŞ
+12
+Şekil 1. Bilimsel buluşlarda problemin doğru ifade edilmesi ve arama.
+Yukarıdaki listede belirtildiği gibi, araştırma motivasyonu bilim- sel yaratıcılık için gerekli şartların en başında yer alır. Motivasyon temel psikolojik ihtiyaçlara bağlı olabilir. İnsan motivasyonları üzerine çeşitli psikologlar tarafından son elli yılda birçok araş- tırmalar yapılmıştır (mesela bkz. Maslow, 1966). Âlem hakkında metafizik eğilimler ve ontolojik varsayımların da bilimsel motivas- yonu etkileyebileceği öne sürülmektedir (bkz. Kuhn, 1970, p. 41). Bu konu önemli olmakla birlikte şimdiki çalışmamızın çerçevesi dışında kalmaktadır.
+Problemlerin açık bir şekilde formüle edilmesi de bilimsel araş- tırmada önemli bir husustur. Modern bilimsel araştırmada, bilim- sel problemlerin doğru formüle edilebilmesi için geniş ve sistema- tik bir bilgi kaynağına ihtiyaç vardır. Bir bilim alanında araştırma problemlerinin doğru formüle edilebilmesi, o bilim alanındaki kavramların yapısı hakkında derin bir vukuf gerektirir. Yaratıcı bilim adamı, araştırma problemini yeniden formüle etmede bir kavramsal yapıyı değiştirebilir ve kendi çözümü arar. Bazı durum- larda, kavramsal yapıda meydana getirilen değişiklikler, fizikte za- man ve ölçülebilirlik kavramlarında olduğu gibi, en temel kavram ve prensipler üzerinde olabilir. Problem gösterimini değiştirme ise, problem alanına alternatif bir bakış açısı sağlayabilir. Bu ise bilim-
+4. Bu arama alanını daraltacak kuralları bir araya getirme veya çıkarımlama yetisi.
+5. Tesbit edilen arama alanında problemin çözümüne ulaşın- caya kadar sabır ve sebatla çalışma.
+Şekil 1 bu kavramlar arasındaki bağıntıları özetlemektedir. Bun- lar arasındaki bağlarda bir kopukluk bilimsel araştırmayı engelle- yebilir.
+Bilimsel Araştırma Arama Araştırma için —> Problemlerini Alanını —> Aramaya
+Motivasyon Formüle et Tesbit et
+Arama
+-> Alanını
+Daralt
+Sebatla ->
+Devam et
+ Dîvân
+2014/1
+
+de yaratıcılığın en etkili parametrelerinden biri olarak görülmekte- dir (bkz. Simon 1992; Karmiloff-Smith, 1990).
+Seçilen bir araştırma problemi için kapsamlı bir arama alanı meydana getirmek için geniş bir bilgi kaynağı gerekebilir. Bu ara- ma alanı daha sonra, uygun arama stratejileri, metot ve kurallarının seçilip kullanılmasıyla daha elverişli bir boyuta indirgenebilir. Bu, mevcut kaynak ve zaman sınırı içinde bir çözüme ulaşabilmek için gereklidir. Bir kere problem tesbit edilip sınırları çizildiğinde, bilim- sel problemin çözümü yolunda bir sonuca varıncaya kadar ısrarla aramaya devam edilmelidir. Bilimsel yaratıcılık kendisini bu bir dizi araştırma görevinin yerine getirilmesi sırasında gösterir. Her bir gö- rev sırasında değişik bilgi türleri kullanılması gerekecektir.
+Araştırmada Kullanılan Bilgi Türleri, Bilimsel Buluş Türleri
+Modern bilimsel araştırmalar, değişik türden genel ve özel bil- gilerin kullanıldığı en karmaşık insan faaliyetlerini ihtiva ederler. Modern bilimsel araştırmalar için gerekli bilgiler dört sınıf altında toplanabilir: a) Sağduyu bilgileri, b) Teknik bilgiler, c) Teorik bilgi- ler, ve d) Metodolojik bilgiler.1
+Sağduyu bilgileri dünya hakkında genel ve nisbeten yapılandırıl- mamış bilgilerdir. Teknik bilgiler, aygıt kullanımı, metot ve süreçler hakkındaki bilgilerdir. Teorik bilgiler bur tür bilgilerin kazanılması için faydalı fakat her zaman gerekli olmayan bilgi türleridir. Teknik bilgiler tasvirî ve yordamsal olabilirler.
+Teorik bilgiler dünya hakkında birbirine bağlı birçok sınıflandır- ma ve hipotezi ihtiva eden sistematik, tasvirî bilgilerdir. Teorik bil- gilere tipik örnekler Klasik Mekanik ve Elektro-magnetizmdir.
+Metodolojik bilgiler ise şart-eylem kuralları şeklinde ifade ede- bilen yordamsal bilgilerdir. Metodolojik bilgiler bilimsel açıdan ilginç olan ve olmayan olayları ayırmada, araştırmada alternatif amaçlardan birinin ve bunun çözümü için gerekli strateji ve metot- ların seçiminde, deneylerin tasarlanmasında ve uygulanmasında, deney sonuçlarından yeni hipotezlerin çıkarılmasında, ve bunların
+1 Bilimselaraştırmasüreçlerindekullanılanbilgilerburadaverdiğimizdörtsınıf ile sınırlı değildir. Başka bilgi türleri de bilimsel araştırmada rol oynayabilir, mesela, parçacık fiziği tarihinde kuvark teorisinde olduğu gibi sembolik dinî bilgiler.
+13
+Yapay Zeka ve Bilim Felsefesi
+ Dîvân
+2014/1
+ 
+Şakir KOCABAŞ
+14
+nasıl genelleştirilmesinde, test ve değerlendirilmesinde kullanılan bilgilerdir. Bir bilim adamını diğer insanlardan ayıran en mümey- yiz bilgi türü budur.
+Mantıksal çıkarımlara dayanan teorik bilgilerden farklı olarak, metodolojik bilgiler indüktif genelleme, soyutlama, ters dedüksi- yon (retroduction) ve analoji gibi mantık ötesi çıkarımları fazlaca kullanır. Bilimsel araştırma faaliyeti sırasında metodolojik kurallar problem durumlarının formüle edilmesinde, geniş arama alanları- nın daraltılmasında, ve hipotez oluşturmada sıkça kullanılırlar.
+Bilimsel yaratıcılık, buluşun yapıldığı araştırma alanının mahiye- tine uygun olarak incelenebilir. Kocabaş (1992c) bilimsel buluşlar- la ilgili şöyle bir sınıflandırma önermiştir: 1) Mantıksal-Matema- tiksel buluşlar, 2) Formel buluşlar, 3) Teorik buluşlar, ve 4) Ampirik buluşlar. Bu sınıflandırma Kocabaş (1992a) tarafından önerilen tasvirî bilginin kategorizasyonuna dayanmaktadır ve bilimsel araş- tırmada kullanılan ve buluşla ortaya çıkan bilgi türlerini yansıt- maktadır. Bütün bu buluş türleri yapay zekada bir dizi bilgisayar modelleri vasıtasıyla incelenmiştir.
+Bu sınıflandırmaya göre mantıksal-matematiksel buluşlar, is- minden de anlaşılacağı gibi, mantık ve matematiğin soyut alan- larında vuku bulur. Mantıksal-matematiksel buluşların en mü- meyyiz vasfı, prensip olarak bunların deney ve gözleme ihtiyaç göstermemesidir. Bunlar aynı şekilde -ancak bazı durumlarda- analojik çağrışımlar dışında, kendi başına fiziksel bir alan bilgisini de gerektirmezler.
+Formel buluşlar soyut birimleri, bunların sınıf ve özelliklerinin ifade edildiği formel bir alanda vuku bulur. Formel buluşlar, formel bilgiler üzerinde dedüktif çıkarımlar için mantıksal-matematiksel bilgiyi gerektirir.
+Teorik buluşlar mantıksal-matematiksel, formel ve teorik bilgiyi gerektirir, ve teorik analiz ve sentezler sonucu ortaya çıkar. Bilim tarihinde Maxwell’in denklemleri ve Einstein-Lorenz dönüşümleri gibi oldukça önemli teorik buluşlar vardır.
+Ampirik buluşlar mantık-matematiksel ve formel bilgi yanında deneysel ve gözlemsel verileri de gerektirir. Önceki ampirik buluş- lar sırasında (mesela 17. ve 18. yüzyıl kimyasında) teorik bilgiler pek gerekli olmamıştır, fakat modern ampirik araştırmalarda (oksit süper iletkenlik ve füzyon deneyleri gibi alanlarda) geniş ölçüde te- orik alan bilgisi gerekmektedir.
+ Dîvân
+2014/1
+
+Bilgisayarlı Buluş Modelleri
+Yukarıda anlatılan buluş türlerine paralel olarak, yapay zekacı bi- lim adamlarının geliştirmiş olduğu buluş modelleri de aynı şekilde sınıflandırılabilir: Mantık-matematiksel Modeller, Formel Model- ler, Ampirik Modeller, ve Teorik Modeller.
+Yapay zekada geliştirilen ilk sistemlerden bazıları (mesela Logic Theorist) mantıkta teorem ispatlama için geliştirilmiş mantık-ma- tematiksel buluş modelleri idi. Nisbeten daha yeni buluş modelle- rinde Automated Mathematician (Lenat, 1979) matematiksel bu- luşlar için en önde gelen bir örnektir.
+Lenat’ın (1983) EURISKO sistemi ise Naval Fleet Design oyunu ile Evrim ve 3- boyutlu devre tasarımı alanlarındaki uygulamaları açısından formel buluş sistemlerine tipik bir örnek olarak gösteri- lebilir.
+Teorik buluş modellerine örnek olarak PI (Thagard ve Holyoak, 1985), ECHO (Thagard ve Novak, 1994) ve GALILEO (Zytkow, 1990) ve PAULI’yi (Valdez-Perez, 1994) gösterebiliriz. Bunlardan ilk ikisi daha çok kavramsal buluş modelleri olarak vasıflandırılabilir ki, bu durum da formel buluş modellerine daha yakın olarak görülebi- lir. Öte yandan GALILEO sistemi, bilimsel yasaların daha kullanışlı formlarını bulması dolayısıyla teorik analiz yoluyla buluşlara ilginç bir örnek olarak gösterilebilir. PAULI sistemi ise fizikte elementer parçacıkların kuvantum özellikleri ile ilgili genel bir teorem bul- muş olan bir başka ilginç sistemdir.
+Ampirik buluşlar yapay zekada geniş ölçüde araştırılmış bir alan- dır ve bu alandaki buluşların değişik yönlerini inceleyen bir dizi bilgisayarlı model geliştirilmiştir. Ampirik buluş sistemleri, kalitatif ve kantitatif (niteliksel ve niceliksel) modeller olmak üzere başlıca iki sınıfa ayrılırlar. Kalitatif sistemler arasında GLAUBER (Lang- ler ve diğerleri, 1987) 17. yüzyılda asit-baz teorisinin bulunuşunu modellendirmektedir. STAHL (Zytkow ve Simon, 1986) ve STAHL (Rose ve Langley, 1986) 18. yüzyıl kimyasında kimyasal bileşikle- rin bileşenlerinin bulunmasını modellendirmektedir. Bunlardan STAHL aynı zamanda flojiston teorisinden oksijen teorisine geçiş- teki paradigma değişikliğini de kısmen modellendirmektedir. AbE (O’Rorke, Morris ve Schnlenburg) sistemi flojiston teorisinden ok- sijen teorisine geçişi daha ayrıntılı bir şekilde modellendirmekte- dir. Bu sistem ayrıca bu süreçte ters çıkarımın (abductive inferen- ce) rolünü de göstermektedir. KEKADA (Kulkarni ve Simon, 1988)
+15
+Yapay Zeka ve Bilim Felsefesi
+ Dîvân
+2014/1
+
+Şakir KOCABAŞ
+16
+Bilgisayarlı bilim çalışmaları göstermektedir ki bilim felsefesi, kendi tarihi içinde bilimin bir dizi önemli tarafını gözardı etmiştir. Bilgisayarlı bilim çalışması ile konvansiyonel bilim felsefesi arasın- daki farklar Shrager ve Langley (1990) tarafından şöyle özetlenmek- tedir: Konvansiyonel felsefi gelenek bilimsel bilginin yapısı üzerin- de durur ve bilim yasaları ve teorilerin değerlendirilmesi üzerinde ilgiyi yoğunlaştırır. Halbuki bilgisayarlı yaklaşım bilimsel düşünce
+biyokimyada 1930’larda Krebs’in üre çevrimini buluşunu model- lendirmektedir. Bu sistem bu süreçte birkaç arama alanı tanımla- maktadır. COAST (Rajamoney, 1990) sistemi ise fiziksel sistemle- ri “senaryolar” olarak ele alır ve teori yenilemeyi kalitatif şemalar (Forbus, 1984) üzerinde adım-adım değişiklikler olarak belirler.
+Bunlardan başka BR-3 (Kocabaş, 1991) ve BR-4 (Kocabaş ve Langley, 1995) elementer parçacıkların kuvantum özellikleri ile ilgili birkaç sakınım yasasını bulabilmektedir. İkinci sistem ayrıca parçacık fiziğinde nötrino’nun bulunuşunu da modellendirmekte- dir. Çelişkili çözüm durumlarıyla karşılaştıklarında her iki sistem de kendi alan bilgisini (teorisini) adım adım değiştirebilmekte ve böylece tutarlı bir teoriye ulaşabilmektedir. PAULI (Valdez-Perez 1994) sistemi ise bazı tür buluş problemlerini iki arama alanında matris işlemleri olarak ele almaktadır. Bu sistem bu şekilde BR- 3’ün ulaştığı sonuçları çıkartabilmekte, hatta alternatif çözümler de üretebilmektedir. PAULI sistemi ayrıca parçacık fiziğinde genel bir teorem de bulmuştur, fakat bu teoremin ne derece geçerli ol- duğu tartışma konusudur. MECHEM (Valdez-Perez, 1995) katalitik kimyada bugünkü kimyacıların bildikleri dışında alternatif reaksi- yon mekanizmaları bulmuştur.
+Kantitatif buluş modelleri arasında BACON (Langley ve diğeri- eri, 1987), FAHRENHETT (Zytkow, 1987) ve IDS (Nordhausen ve Langley, 1987) önde gelen örnekler olarak sayılabilir. BACON, ilk başarılı kantitatif buluş modeli idi ki bu sistem aynı zamanda bilim felsefecilerinin de ilgisini çekmişti.2 IDS sistemi ise kalitatif ve kan- titatif metotları birleştiren ilk modellerden biri sayılabilir.
+Bilimsel Araştırmanın Özellikleri
+ Dîvân
+2014/1
+ 2 Bkz. Social Studies of Science özel sayısı (Vol. 19, Sayı 4).
+
+süreçleri üzerinde durur ve veri değerlendirme, teori oluşturma ve deneylerle birlikte bilimsel buluşları ön plana çıkartır.
+Aslında bu farklılık daha da genişletilebilir: Bilgisayarlı bilim ça- lışması sadece teori oluşturma, sınama ve sağlama ile ilgili konu- lar üzerinde değil, aynı zamanda bir dizi diğer hususla da ilgilenir. Kocabaş (1992b), bilimsel araştırma sırasında karşılaşılan birbi- rinden farklı, bir düzineden fazla faaliyeti sıralamaktadır. Bunlar: Bilimsel amaçların formüle edilmesi, bilimsel amaç seçimi, araştır- ma çerçevesinin tanımlanması, bilgi toplama, bilgiyi düzenleme, araştırma stratejilerinin, metotlarının, araç ve tekniklerinin seçimi, deneyler önerilmesi, deney tasarım, deney maddelerinin seçimi, beklentilerin tesbit edilmesi, deneylerin yapılması, veri toplama, veri değerlendirme, hipotez oluşturma, teori oluşturma, teori yeni- leme, amaç sağlama kontrolü ve bilimsel açıklama yapma.
+Bu araştırma faaliyetlerinden her biri çeşitli planlama, sınıf- landırma ve değerlendirme işini ihtiva edebilir. Kocabaş (1992 b) araştırma faaliyetleri sırasında karşılaşılan bu durumlara oksit süperiletkenlik alanındaki araştırmalardan örnekler vermektedir. Bunlardan meselâ, bilimsel amaçların formüle edilmesi, formüle edilmiş amaçlardan birinin seçimi, strateji önerilmesi, deney öne- rilmesi ve hipotez oluşturma faaliyetlerini ele alalım.
+Araştırma amaçlarının formüle edilmesiyle ilgili höristik kurallar Kulkarni ve Simon (1988), Lenat (1983), ve Darden (1987) tarafın- dan incelenmiştir. Kocabaş (1992b) araştırma amaçlarını bazan birbirleriyle örtüşebilen iki kategoriye ayırır: Bir olayın açıklama- sına yönelik amaçlar ve bir olayı incelemeye yönelik amaçlar. Ba- şarılı bilim adamlarının bilimsel amaçlarını formüle etmek için birkaç genel kural kullandıkları görülmektedir. Bu kurallardan biri, mevcut bilimsel çerçevede açıklanmamış veya açıklanamayan olaylar ve problemler üzerinde dikkatin yoğunlaştırılmasıdır. An- cak bu problemlerin araştırmaya değer olabilmesi için bazı genel ve önemli sonuçları olmalıdır.
+Bazı bilimsel araştırma problemleri önemli teknolojik ihtiyaçlarla yakından ilgili olabilir. Enerji dönüşümü, depolanması ve iletilmesi hâlâ önemli teknolojik problemlerdir. “Soğuk füzyon”, oksit süperi- letkenlik ve elektrokimya alanlarındaki bilimsel araştırmaları hare- kete geçiren şey bu tür teknolojik problemlerdir. Bilimsel araştırma konusunun önemli veya ilgi çekici olması tek başına iyi bir bilim adamının alakasını çekmesi için yeterli değildir. Formüle edilen araştırma amaçları aynı zamanda gerçekleştirilebilir olmalıdır.
+17
+Yapay Zeka ve Bilim Felsefesi
+ Dîvân
+2014/1
+
+Şakir KOCABAŞ
+18
+Bir bilim adamının belli bir olayla ilgili olarak alternatif amaçlar seçmesi olağan dışı bir durum değildir. Böyle durumlarda alterna- tif amaçlar arasından takip edilecek amacın seçilmesi de ayrı bir araştırma faaliyetidir. Bilim adamları böyle durumlarda öncellikle hangi problem üzerinde çalışacaklarını belirleyen bir dizi seçim kriteri kullanılar. Bu kriterlerden bazıları birbiriyle çelişiyor olabilir ve bu çelişkilerin çözümlenmesi bilim adamı için pek basit bir iş olmayabilir.
+Araştırma stratejisi seçimi de bir araştırma amacının başarıya ulaşması için önemli bir husustur. Strateji seçimi, mesela bir ola- yın açıklanması veya incelenmesi gibi, araştırma amacının türüne bağlıdır. Araştırma stratejisi deney yapmayı gerektiriyorsa, o za- man ne tür deneyler yapılacağına karar verilmesi gerekir.
+Deney ihtiva eden bir strateji seçilmişse, bilim adamı mevcut strateji için hangi süreç (proses) ve tekniklerin uygulanacağını tes- bit etmelidir. Aynı zamanda hangi deney maddelerini kullanacağı- nı tesbit etmek için, elde edilebilirlik, başarı ihtimali, fiyat ve izafi tehlike (radyo aktivite, parlayıcılık ve aşındırıcılık gibi) açısından bir sınıflandırma yapabilmeli ve en uygun deney maddelerini se- çebilmelidir.
+Bilimsel deneyler belli teorik çerçevelere, gözlem ve ölçme stan- dart ve yordamlarına göre tasarlanmalı ve uygulanmalıdır. De- neysel değişkenler önceden tanımlanmalıdır, çünkü deneyler bu değişkenlerin değerlerinin değişimini ölçmek için yapılacaktır. Deney verileri de deney şartlarını aşıp aşmadıkları açısından de- ğerlendirilmelidir. Hipotezler ancak veri değerlendirilmesi yapıl- dıktan sonra oluşturulur veya yenilenebilir.
+Hipotez oluşturma bilimsel araştırmanın en önemli faaliyetlerin- den biridir. Bu konu uzun bir süredir konvansiyonel bilim felse- fesinin öncelikli inceleme konusu olmasına rağmen hâlâ ayrıntılı bir inceleme gerektirmektedir. Oksit süperiletkenlik üzerine yap- tığımız araştırmada (bkz. Kocabaş, 1992b), bu alanda çalışan bilim adamları tarafından 40’dan fazla hipotez oluşturma kuralı kullanıl- dığını tesbit ettik. Bu höristik kuralların çoğu genel olup bir kısmı ise alana özgündür.
+Bu birbirine bağlı araştırma faaliyetleri göstermektedir ki, bilim- sel buluşlar kendi başına bir mantıksal yordam ve süreç değil, fakat bilimsel araştırma denilen bir dizi karmaşık süreçlerin ürünüdür. Bilimsel yaratıcılık bu süreçler içindeki faaliyetlerin her birinde ge- rekli olabilir. Modern fizik tarihi bunun birçok örnekleri ile dolu-
+ Dîvân
+2014/1
+
+dur. Aşırı bir örnek olmakla birlikte, CERN parçacık hızlandırıcısını göz önüne alalım: Burada araştırma, deney önerilmesi tasarımı, beklentilerin tesbiti, deney verilerinin toplanması, veri değerlen- dirmesi, hipotez oluşturma, sağlama ve teori yenileme faaliyetleri- ni ihtiva etmektedir.
+Bilimsel araştırmanın çeşitli yönlerini modellendirmek için bilgi- sayar modelleri geliştirilmesi devam etmektedir. Bu yöndeki araş- tırmada ümit edilen şeylerden biri de komple bir araştırma modeli geliştirmek veya çeşitli bilim alanlarında araştırmayı yönlendirebi- lecek yapay araştırma asistanları geliştirmektir.
+Bilgisayarlı modellemede yapay zeka tekniklerinin artan bir şe- kilde kullanılması simülasyonda matematiksel düşüncenin rolünü azaltmaya doğru gidebilir. Karmaşık fiziksel sistemlerin (fizik teori- leri de dahil olmak üzere) bilgisayar modelleri ile temsil edebilece- ğini ümit etmek pek de hayal gibi görünmemektedir.
+Bilgisayarlı modelleme, teorik analiz ve teori yenilenmesinden başka imkanlar da sağlayabilir, çünkü bu modellerin kullanılması, izlenmesi zor ve karmaşık teorileri daha kolay izlenebilir hale geti- rebilir. Benzer bir şekilde, bilgisayar modellerinin kullanılması, bi- limsel açıklamaların daha sistematik, daha doğru ve hedefe yönelik yapılmasını sağlayabilir.
+Sonuç
+Konvansiyonel felsefi yaklaşım bilimsel araştırmada söz konusu olan birçok faaliyeti gözardı veya ihmal etmektedir. Biz, bilimin, konvansiyonel bilim felsefesinin öngördüğünden veya sağladığın- dan çok daha ayrıntılı bir şekilde incelenmesi gerektiğine inanıyo- ruz. Bilgisayarlı yaklaşım böyle bir çalışma için hem gerekli kav- ramları hem de gerekli metotları sağlamaktadır.
+REFERENCES
+Boden, M. (1990), The creative mind, Sphere Books, London.
+Darden. L. (1987), “Viewing the history of science as compiled hindsight”, The AI Magazine, 8. No. 2. 33-42.
+19
+Yapay Zeka ve Bilim Felsefesi
+ Dîvân
+2014/1
+
+Şakir KOCABAŞ
+20
+——, (1991). Theory change in science: Strategies from Mendelian genetics, Oxford University Press, N.Y.
+Engelmore, R. and Morgan T. (1988), Blackboard systems, Addi- son Wesley.
+Forbus, K. D. (1984), “Qualitative process theory”, Artificial Intel- ligence, 24, 85-168.
+Hayes-Roth, B. (1993), Architectural foundations for real-time performance in intelligent systems, in David, J-M., Krivine, J-P., and Simmons, R. eds. Second Generation Expert Systems, Springer- Verlag, New York.
+Karmiloff-Smith, A. (1990), “Constraints of representational change: Evidence from children’s drawing”, Cognition, 34.
+Kocabaş, S. (1991), “Conflict resolution as discovery in particle physics”, Machine Learning, Vol 6, No 3, 277-309.
+——, (1992a), “Functional categorization of knowledge”, AAAI Spring Symposion Series, 25-27 March 1992, Stanford, CA.
+——, (1992b), “Elements of scientific research: Modeling disco- veries in oxie superconductivity”, Proceedings of the ML92 Work- shop on Machine Discovery, 63-70.
+——, (1992c), “Evaluation of discovery systems”, Proceedings of the ML92 Workshop on Machine Discovery, 168-171.
+——, and Langley, P. (1995), “Integration of research tasks for modeling discoveries in particle physics”, in Working Notes of 1995 Spring Symposium Series, AAAI Press, CA.
+Kuhn, T. S. (1970), The structure of scientific revolutions, The Uni- versity of Chicago Press, Chicago.
+Kulkarni, D. and Simon, H. (1988). The processes of scientific dis- covery, Cognitive Science, 12, 139-175.
+Langley, P., Simon, H., Bradshaw, G., and Zykow, J., (1987). Sci- entific discovery: Exploration of the creative processes, MIT Press.
+Lenat, D. B. (1979), “On automated scientific theory formation: A case study using the AM program”, in Hayes, J., Michie., D., and Mikulich, D. I. eds. Machine Intelligence, 9, 251-283, Halstead, New York.
+——, (1983), “EURISKO: A program that learns new heuristics and domain concepts”, Artificial Intelligence 21, 61-98.
+ Dîvân
+2014/1
+
+——, and Feigenbaum, E. (1987), “On the thresholds of know- ledge”, Proceedings of the Tenth International Joint Conference on Artificial Intelligence, 1173-1182.
+Maslow, A. H. (1966), The psychology of science: A reconnessaince, Harper and Row Publishers. N.Y.
+Nordhausen, B. and Langley, P. (1987), “Towards an integrated discovery system”, Proceedings of the Tenth Internatiohal Joint Conference on Artificial Intelligence, 198-200.
+O’Rorke, P., Morris, S. and Schulenburg, D. (1990), “Theory for- mation by abstration”, in Shrager, J., and Langley P. eds. Computa- tional models of scientific discovery and theory formation, Morgan Kaufmann, San Mateo, CA.
+Rajamoney, S. A. (1990), “A computational approach to theory revision”, in Shrager, J., and Langley P., eds. Computational models of scientific discovery and theory formation, Morgan Kaufmann, San Mateo, CA.
+Rose, D. and Langley, P. (1986), “Chemical discovery as belief re- vision”, Machine Learning, 1, 423-452.
+Shrager, J., and Langley, P. Eds. (1990), “Computational appro- aches to scientific discovery”, in Shrager, J., and Langley P., eds. Computational models of scientific discovery and theory formation. Morgan Kaufmann, San Mateo, CA.
+Simon, H. A. (1992), “Scientific discovery as problem solving: Reply to critics”. International Studies in the Philosophy of Science 6 (1): 69-88.
+Thagard, P. (1988), Computational philosophy of science, The MIT Press, Cambridge, MA.
+Thagard, P. and Holyoak, K. (1985), “Discovering the wave theory of sound: inductive inference in the context of problem solving”, Proceedings of the Ninth International Joint Conference on Artifici- al Intelligence, 610-612.
+Thagard, P. and Nowak, G. (1990). “The conceptual structure of the geological revolution”, in Shrager, J., and Langley P., eds. Com- putational models of scientific discovery and theory formation Mor- gan Kaufmann, San Mateo, CA.
+Valdes-Perez, R. E. (1994), “Algebraic reasoning about reactions Discovery of conserved properties in particle physics”, Machine Learning 17 (1), 47-68.
+21
+Yapay Zeka ve Bilim Felsefesi
+ Dîvân
+2014/1
+
+Şakir KOCABAŞ
+22
+——, (1995), “Machine discovery in chemistry: New results”. Ar- tificial Intelligence 74 (1), 191-201.
+Zytkow, J. M. (1987). “Combining many searches in the FAH- RENHEIT discovery system”. Proc. 4th International Workshop on Machine Learning, Morgan Kaufmann, CA. 281-287.
+——, (1990), “Deriving laws through analysis of processes and equations”, in Shrager, J., and Langley P., eds. Computational models of scientific discovery and theory formation. Morgan Kauf- mann, San Mateo, CA.
+——, and Simon, H. (1986), “A theory of historical discovery: The construction of componential models”. Machine Learning, 1, 107- 137.
+ Dîvân
+2014/1
